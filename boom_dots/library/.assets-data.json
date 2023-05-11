@@ -1,0 +1,129 @@
+{
+  "4b117191-f134-43e9-8c66-46a9b5b689fa": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "5c9fdb17-0342-43be-a6e7-a98100e684c9": {
+    "url": "db://assets/scene/game.scene",
+    "value": {
+      "depends": [
+        "5c9fdb17-0342-43be-a6e7-a98100e684c9",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "d2daa111-7fad-48b2-b56c-07b305d2b0a5@f9941",
+        "d42269e0-e450-4fd3-aa33-f0d25904f197",
+        "df0c42cd-70bc-461c-8d21-4fb71da26c26@f9941"
+      ]
+    }
+  },
+  "c0b05512-808a-4b28-bbac-6403334365d7": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "d2daa111-7fad-48b2-b56c-07b305d2b0a5": {
+    "url": "db://assets/resources/player.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d2daa111-7fad-48b2-b56c-07b305d2b0a5@6c48a": {
+    "url": "db://assets/resources/player.png@6c48a",
+    "value": {
+      "depends": [
+        "d2daa111-7fad-48b2-b56c-07b305d2b0a5"
+      ]
+    }
+  },
+  "d2daa111-7fad-48b2-b56c-07b305d2b0a5@f9941": {
+    "url": "db://assets/resources/player.png@f9941",
+    "value": {
+      "depends": [
+        "d2daa111-7fad-48b2-b56c-07b305d2b0a5@6c48a"
+      ]
+    }
+  },
+  "df0c42cd-70bc-461c-8d21-4fb71da26c26": {
+    "url": "db://assets/resources/enemy.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "df0c42cd-70bc-461c-8d21-4fb71da26c26@6c48a": {
+    "url": "db://assets/resources/enemy.png@6c48a",
+    "value": {
+      "depends": [
+        "df0c42cd-70bc-461c-8d21-4fb71da26c26"
+      ]
+    }
+  },
+  "df0c42cd-70bc-461c-8d21-4fb71da26c26@f9941": {
+    "url": "db://assets/resources/enemy.png@f9941",
+    "value": {
+      "depends": [
+        "df0c42cd-70bc-461c-8d21-4fb71da26c26@6c48a"
+      ]
+    }
+  },
+  "d42269e0-e450-4fd3-aa33-f0d25904f197": {
+    "url": "db://assets/resources/boom.plist",
+    "value": {
+      "depends": []
+    }
+  },
+  "ca5f23ee-64f1-4db7-80a2-e22650e770da": {
+    "url": "db://assets/resources/spike.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ca5f23ee-64f1-4db7-80a2-e22650e770da@6c48a": {
+    "url": "db://assets/resources/spike.png@6c48a",
+    "value": {
+      "depends": [
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da"
+      ]
+    }
+  },
+  "ca5f23ee-64f1-4db7-80a2-e22650e770da@f9941": {
+    "url": "db://assets/resources/spike.png@f9941",
+    "value": {
+      "depends": [
+        "ca5f23ee-64f1-4db7-80a2-e22650e770da@6c48a"
+      ]
+    }
+  },
+  "913068e2-57f9-42d6-a16b-87ecd3e0d998": {
+    "url": "db://assets/scripts",
+    "value": {}
+  },
+  "6d49e50a-dea2-4592-86bd-92d6be18b216": {
+    "url": "db://assets/scripts/game.ts",
+    "value": {}
+  },
+  "444186ad-2273-44ef-ad2f-a4583c23e29e": {
+    "url": "db://assets/scene/gameOver.scene",
+    "value": {
+      "depends": [
+        "444186ad-2273-44ef-ad2f-a4583c23e29e",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ]
+    }
+  },
+  "616cd5c9-8363-4f61-9078-13d2982bdae9": {
+    "url": "db://assets/scripts/gameOver.ts",
+    "value": {}
+  }
+}

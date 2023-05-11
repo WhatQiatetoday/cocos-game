@@ -1,0 +1,26 @@
+{
+  "__version__": "3.0.6",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "21dc65",
+        "services": []
+      },
+      "web-mobile": {
+        "configID": "21dc65",
+        "services": []
+      }
+    },
+    "taskOptionsMap": {
+      "1683472885137": {
+        "configID": "21dc65",
+        "services": []
+      }
+    },
+    "__version__": "1.3.4"
+  },
+  "builder-options": {
+    "configID": "21dc65",
+    "services": []
+  }
+}

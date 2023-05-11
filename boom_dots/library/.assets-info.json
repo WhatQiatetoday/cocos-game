@@ -1,0 +1,90 @@
+{
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scene.meta": {
+    "time": 1682581775090.2937
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scene": {
+    "time": 1683118352034.5518,
+    "uuid": "4b117191-f134-43e9-8c66-46a9b5b689fa",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scene\\game.scene.meta": {
+    "time": 1682581790085.9197
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scene\\game.scene": {
+    "time": 1683478432932.4192,
+    "uuid": "5c9fdb17-0342-43be-a6e7-a98100e684c9",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources.meta": {
+    "time": 1682582263609.358
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources": {
+    "time": 1682582272160.5232,
+    "uuid": "c0b05512-808a-4b28-bbac-6403334365d7",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources\\player.png.meta": {
+    "time": 1682582272174.523
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources\\enemy.png.meta": {
+    "time": 1682582272191.5227
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources\\boom.plist.meta": {
+    "time": 1682582272198.5237
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources\\spike.png.meta": {
+    "time": 1682582272211.524
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources\\player.png": {
+    "time": 1571546252000,
+    "uuid": "d2daa111-7fad-48b2-b56c-07b305d2b0a5",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources\\enemy.png": {
+    "time": 1571546252000,
+    "uuid": "df0c42cd-70bc-461c-8d21-4fb71da26c26",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources\\boom.plist": {
+    "time": 1571546252000,
+    "uuid": "d42269e0-e450-4fd3-aa33-f0d25904f197",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\resources\\spike.png": {
+    "time": 1571546252000,
+    "uuid": "ca5f23ee-64f1-4db7-80a2-e22650e770da",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scripts.meta": {
+    "time": 1682583181168.116
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scripts": {
+    "time": 1683118606063.4734,
+    "uuid": "913068e2-57f9-42d6-a16b-87ecd3e0d998",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scripts\\game.ts.meta": {
+    "time": 1682583189775.4812
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scripts\\game.ts": {
+    "time": 1683467472394.1455,
+    "uuid": "6d49e50a-dea2-4592-86bd-92d6be18b216",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scene\\gameOver.scene.meta": {
+    "time": 1683118352040.5513
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scene\\gameOver.scene": {
+    "time": 1683456660892.1133,
+    "uuid": "444186ad-2273-44ef-ad2f-a4583c23e29e",
+    "missing": false
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scripts\\gameOver.ts.meta": {
+    "time": 1683118606068.4724
+  },
+  "G:\\code\\cocos练习\\explosionPoint\\assets\\scripts\\gameOver.ts": {
+    "time": 1683118708532.2656,
+    "uuid": "616cd5c9-8363-4f61-9078-13d2982bdae9",
+    "missing": false
+  }
+}
